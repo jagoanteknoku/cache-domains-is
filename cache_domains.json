@@ -126,6 +126,6 @@
 			"name": "mlbb",
 			"description": "CDN for MLBB",
 			"domain_files": ["mlbb.txt"]
-		},
+		}
 	]
 }
