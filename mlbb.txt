@@ -5,12 +5,3 @@ alxdlml.yuanzhanapp.com
 mntn.jns.swiftserve.co
 tm.ced.jns.swiftserve.com
 wscdn.ml.youngjoygame.com.wsoversea.com
-*.v.akamai.net
-*.yuanzhanapp.com.lb.udnchina.net
-*.swiftserve.com
-*.ml.youngjoygame.com
-*.yuanzhanapp.com
-*.youngjoygame.com
-*.youngjoygame.com.akamaized.net
-*.youngjoygame.com.wsoversea.com
-*.youngjoygame.com.cy-isp.com
